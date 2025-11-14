@@ -82,3 +82,5 @@ public class NQueens {
         sc.close();
     }
 }
+//time O(n!)  backtracking
+//space O(n^2)
