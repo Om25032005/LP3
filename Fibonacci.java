@@ -37,11 +37,11 @@ public class Fibonacci {
 
 
 //  Non-Recursive (Iterative):
-//    ➤ Time Complexity  : O(n)
-//    ➤ Space Complexity : O(1)
-//    ➤ Explanation: Loop runs n times, uses constant space.
+//    Time Complexity  : O(n)
+//    Space Complexity : O(1)
 
 //  Recursive:
-//    ➤ Time Complexity  : O(2^n)
-//    ➤ Space Complexity : O(n)
-//    ➤ Explanation: Each call generates two more calls, creating an exponential tree of recursive calls.
+//    Time Complexity  : O(2^n)
+//    Space Complexity : O(n)
+//    Explanation: Each call generates two more calls, creating an exponential tree of recursive calls.
+
